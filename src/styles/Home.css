@@ -28,6 +28,7 @@
   width: 40%;
   font-size: 30px;
 }
+
 .prompt svg {
   font-size: 60px;
   margin: 5px;
@@ -70,6 +71,7 @@
   .skills {
     text-align: center;
   }
+
   .list {
     padding: 0;
   }
@@ -77,4 +79,11 @@
   .skills h2 {
     font-size: 30px;
   }
+}
+
+.profile-picture {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
 }
