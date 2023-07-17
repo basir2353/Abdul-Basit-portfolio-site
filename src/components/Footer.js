@@ -1,7 +1,7 @@
 import React from "react";
 import { IconButton } from "@material-ui/core";
 import InstagramIcon from "@material-ui/icons/Instagram";
-import GitHubIcon from "@material-ui/icons/Twitter";
+import TwitterIcon from "@material-ui/icons/Twitter";
 import FacebookIcon from "@material-ui/icons/Facebook";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import "../styles/Footer.css";
@@ -21,10 +21,10 @@ function Footer() {
         <IconButton
           color="primary"
           component="a"
-          href="https://github.com/basir2353"
+          href="https://twitter.com/mabdulbasi1096?t=gA2Yx3B6pOJogf-F_kUh0g&s=09"
           target="_blank"
         >
-          <GitHubIcon />
+          <TwitterIcon />
         </IconButton>
         <IconButton
           color="primary"
