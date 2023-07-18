@@ -31,7 +31,7 @@ export const ProjectList = [
     githubLink:"https://github.com/basir2353/Expense-Tracker-model"
   },
   {
-    name: "Chef-FOOD-Web-animatin",
+    name: "CHEF FOOD Web ANIMATION",
     image: Proj5,
     skills: "JavaScript,HTML,CSS,React,TypeScript",
     githubLink:"https://abdul-basit-food-web-animations-agq9k6ocp-basir2353.vercel.app/"
