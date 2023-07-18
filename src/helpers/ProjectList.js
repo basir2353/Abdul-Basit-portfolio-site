@@ -2,7 +2,7 @@ import Proj1 from '../assets/proj1.png';
 import Proj2 from "../assets/proj2.png";
 import Proj3 from "../assets/proj3.png";
 import Proj4 from "../assets/proj4.png";
-import Proj5 from "../assets/proj5.jpg";
+import Proj5 from "../assets/2023-07-18 (5).png";
 import Proj6 from "../assets/proj6.png";
 
 export const ProjectList = [
@@ -31,9 +31,10 @@ export const ProjectList = [
     githubLink:"https://github.com/basir2353/Expense-Tracker-model"
   },
   {
-    name: "Dashboard Visualizer",
+    name: "Chef-FOOD-Web-animatin",
     image: Proj5,
-    skills: "JavaScript,HTML,CSS",
+    skills: "JavaScript,HTML,CSS,React,TypeScript",
+    githubLink:"https://abdul-basit-food-web-animations-agq9k6ocp-basir2353.vercel.app/"
   },
   {
     name: "Mobile Game",
